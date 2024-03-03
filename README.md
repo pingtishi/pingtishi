@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @pingtishi
-- 👀 I’m interested in poem
-- 🌱 I’m currently learning pingtishi
-- 💞️ I’m looking to collaborate on poem
-- 📫 How to reach me here
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+炎石，陕西商洛人，现居西安。
 
 <!---
 pingtishi/pingtishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
